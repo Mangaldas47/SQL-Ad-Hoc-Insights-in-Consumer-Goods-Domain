@@ -1,0 +1,1 @@
+# SQL-Ad-Hoc-Insights-in-Consumer-Goods-Domain
